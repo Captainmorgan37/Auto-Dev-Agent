@@ -1,0 +1,6 @@
+# Streamlit Auto-Dev Agent Configuration
+
+model: gpt-5          # or "ollama/llama3" for free local mode
+iteration_limit: 5
+mode: aviation         # "aviation" or "general"
+sandbox_path: "./sandbox"
